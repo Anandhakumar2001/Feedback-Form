@@ -1,0 +1,42 @@
+<html>
+<head><title>feedback</title>
+<style>input[type=Submit] {
+  background-color: #0099ff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  
+}
+</style>
+</head>
+<body>
+<h1 style="color:red;">Contact us</h1>
+<h2>please fill the form in a descent manner</h2>
+
+<form>
+<h1>
+<label>Full Name*</label><br>
+<input type="text"><br>
+
+<label>E-mail*</label><br>
+<input type="email"><br>
+</h1>
+
+<p>example@example.com</p>
+
+<h1>
+<label>Message*</label><br>
+
+<textarea style="height:100px"length="100px"></textarea>
+<br><br>
+
+<input type="Submit"value="Submit" height="100px" padding="100px">
+<h1>
+</form>
+
+
+
+
+</body>
+</html>
